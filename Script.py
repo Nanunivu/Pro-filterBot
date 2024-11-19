@@ -127,7 +127,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ᴛʜɪꜱ ᴀɴᴜᴘᴀᴍᴀ-ᴀᴜᴛᴏғɪʟᴛᴇʀʙᴏᴛ ɪs ᴀ ᴘʀɪᴠᴀᴛᴇ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ🥺.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=>sᴏʀʀʏ😔</a>https://t.me/Jeevan_shetty
+- ꜱᴏᴜʀᴄᴇ - <a href=>sᴏʀʀʏ😔</a>ʏᴏᴜ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ɪᴛ 😁[ᴊᴇᴇᴠᴀɴ sʜᴇᴛᴛʏ]
 
 - ᴅᴇᴠʟᴏᴘᴇʀ - @Jeevan_shetty"""
 
