@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '80'))
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://telegra.ph/file/58fef5cb458d5b29b0186.jpg https://telegra.ph/file/f0aa4f433132769f8970c.jpg https://telegra.ph/file/f515fbc2084592eca60a5.jpg https://telegra.ph/file/20dbdcffaa89bd3d09a74.jpg https://telegra.ph/file/6045ba953af4def846238.jpg')).split()
+PICS = (environ.get('PICS', 'https://mangandi-2-0.onrender.com/JZIk.JPG https://mangandi-2-0.onrender.com/cAez.JPG https://mangandi-2-0.onrender.com/xyDK.JPG https://mangandi-2-0.onrender.com/zxJ7.JPG https://mangandi-2-0.onrender.com/L30u.JPG https://mangandi-2-0.onrender.com/YqhB.JPG https://mangandi-2-0.onrender.com/qyKw.JPG https://mangandi-2-0.onrender.com/3vDS.JPG')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '')
@@ -72,12 +72,12 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/HA_Bots_Support')
-OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Hansaka_Anuhas")
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/HA_Bots')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/HA_Films_World')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/HA_Bots")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/shettyDiscus_Group')
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/jeevan_shetty")
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/shettymoviess')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/shetty_moviez1')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/shettymoviess")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/shettymoviess")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
